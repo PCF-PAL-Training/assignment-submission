@@ -16,7 +16,7 @@ apply plugin: "io.pivotal.pal.assignments.plugin"
 assignments {
     apiUrl = "https://assignments.education.pivotal.io/"
     emails = [
-       "madanraj.venkatesan@gmail.com", "shilpa.epa@ntitydata.com"
+       "madanraj.venkatesan@gmail.com", "silpa.epa@nttdata.com"
     ]
     cohortIdentifier = "349802431"
 }
